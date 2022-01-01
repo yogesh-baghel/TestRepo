@@ -1,2 +1,2 @@
 Change 1
-Change made by idea branch
+Change -> made by master
